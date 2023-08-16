@@ -1,5 +1,5 @@
 import "./App.css";
-import { Model } from "./BlenderFile";
+import { Model } from "./blenderFile";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 
